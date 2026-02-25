@@ -49,7 +49,7 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## 🕵️ Cybersecurity & Red Teaming Toolkit:
+## Cybersecurity & Red Teaming Toolkit:
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
@@ -63,7 +63,7 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## 💻 Programming Languages & Digital Suite:
+## Programming Languages & Digital Suite:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -73,7 +73,7 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## ☁️ Cloud, Databases & Infrastructure:
+## Cloud, Databases & Infrastructure:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,37 +84,20 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## 🔌 IoT & Embedded Systems:
+## IoT & Embedded Systems:
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![PineCone BL602](https://img.shields.io/badge/PineCone_BL602-009688?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
-## 🔬 Popular Repositories
+## Certifications
 
-<a href="https://github.com/ChanduKomme/Post-quantum-key-exchange-mechanisms-for-IoT-devices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=Post-quantum-key-exchange-mechanisms-for-IoT-devices&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" width="49%" />
-</a>
-<a href="https://github.com/ChanduKomme/Hardware-rooted-key-aggregate-cryptosystem-for-scalable-data-sharing-in-cloud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=Hardware-rooted-key-aggregate-cryptosystem-for-scalable-data-sharing-in-cloud&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" width="49%" />
-</a>
-<a href="https://github.com/ChanduKomme/TAADS-Word-Document-Analysis-Micro-Course-Preparation-Tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=TAADS-Word-Document-Analysis-Micro-Course-Preparation-Tool&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" width="49%" />
-</a>
-<a href="https://github.com/ChanduKomme/ChanduKomme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=ChanduKomme&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" width="49%" />
-</a>
-
----
-
-## 📜 Certifications
-
-| 🏆 | Certification | Issuer | Badge |
+| | Certification | Issuer | Badge |
 |:--:|:-------------|:-------|:------|
 | ✅ | **Certified Network Security Practitioner (CNSP)** | The SecOps Group | ![CNSP](https://img.shields.io/badge/CNSP-00ff41?style=flat-square&logoColor=black) |
-| ✅ | **CompTIA Security+** | CompTIA | ![Security+](https://img.shields.io/badge/Security+-C8202F?style=flat-square&logo=comptia&logoColor=white) |
-| ✅ | **Certified in Cybersecurity (CC)** | ISC² | ![CC](https://img.shields.io/badge/ISC²_CC-003366?style=flat-square) |
+| Ongoing | **CompTIA Security+** | CompTIA | ![Security+](https://img.shields.io/badge/Security+-C8202F?style=flat-square&logo=comptia&logoColor=white) |
+| Ongoing | **Certified in Cybersecurity (CC)** | ISC² | ![CC](https://img.shields.io/badge/ISC²_CC-003366?style=flat-square) |
 | ✅ | **ISC² Candidate** | ISC² | ![ISC2](https://img.shields.io/badge/ISC²-003366?style=flat-square) |
 | ✅ | **CS50x Cybersecurity** | Harvard / edX | ![CS50](https://img.shields.io/badge/CS50-A51C30?style=flat-square) |
 | ✅ | **Intro to Cybersecurity** | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
@@ -122,7 +105,7 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## 📚 Research & Publications
+##  Research & Publications
 
 > ### Key-Aggregate Cryptosystem for Scalable Data Sharing in Cloud Storage
 > *IJARESM · March 2023*
@@ -137,12 +120,12 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## 🎓 Education
+##  Education
 
 | | Degree | Institution |
 |:--:|:-------|:-----------|
-| 🎓 | **M.Sc. Applied Computer Science** | Hochschule Schmalkalden, Germany |
-| 🎓 | **B.Tech Computer Science** | Siddharth Institute of Engineering & Technology, India |
+|  | **M.Sc. Applied Computer Science** | Hochschule Schmalkalden, Germany |
+|  | **B.Tech Computer Science** | Siddharth Institute of Engineering & Technology, India |
 
 ---
 
@@ -167,9 +150,8 @@ chandu@kali:~$ cat /etc/profile
 
 ## 🔗 Let's Connect:
 
-- 📧 **Email:** [kommechandu12@gmail.com](mailto:kommechandu12@gmail.com)
-- 🌐 **Portfolio:** [chandukomme.lovable.app](https://chandukomme.lovable.app)
-- 💼 **LinkedIn:** [Chandu Komme](https://www.linkedin.com/in/chandu-komme-242901388/)
+- **Email:** [kommechandu12@gmail.com](mailto:kommechandu12@gmail.com)
+- **LinkedIn:** [Chandu Komme](https://www.linkedin.com/in/chandu-komme-242901388/)
 
 ---
 
