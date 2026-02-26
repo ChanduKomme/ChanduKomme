@@ -1,31 +1,36 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Chandu+Komme;Cybersecurity+Researcher+%7C+" alt="Typing SVG" />
-
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Chandu+Komme;Cybersecurity+Researcher+%7C+Post-Quantum+Security" alt="Typing SVG" />
+</a>
 
 <br/>
 
-🚀 Check out my projects and let's connect!
-
----
-
-## 🌐 Socials:
-
-<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://chandukomme.lovable.app"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-<a href="https://github.com/ChanduKomme"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+🚀 **Check out my projects and let's connect!**
 
 <br/>
+
+<a href="https://www.linkedin.com/in/chandu-komme-242901388/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kommechandu12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://chandukomme.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-Internship_%2F_Working_Student_%2F_Thesis-00ff41?style=flat-square&labelColor=0d1117" />
 
+</div>
+
 ---
+
 
 ## 👨‍💻 About Me
 
