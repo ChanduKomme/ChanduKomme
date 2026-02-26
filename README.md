@@ -133,16 +133,11 @@ chandu@kali:~$ cat /etc/profile
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChanduKomme&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduKomme&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%" />
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduKomme&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="40%" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanduKomme&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="95%" />
 
 </div>
 
@@ -151,7 +146,7 @@ chandu@kali:~$ cat /etc/profile
 ## 🔗 Let's Connect:
 
 - **Email:** [kommechandu12@gmail.com](mailto:kommechandu12@gmail.com)
-- **LinkedIn:** [Chandu Komme](https://www.linkedin.com/in/chandu-komme-242901388/)
+- **Contact:** [+49 1521 713187](tel:+491521713187)
 
 ---
 
