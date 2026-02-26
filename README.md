@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-Internship_%2F_Working_Student-00ff41?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-Internship_%2F_Working_Student_%2F_Thesis-00ff41?style=flat-square&labelColor=0d1117" />
 
 ---
 
