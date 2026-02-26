@@ -38,7 +38,7 @@
 chandu@kali:~$ cat /etc/profile
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
 
 🎓 Master's student in **Applied Computer Science** at **Hochschule Schmalkalden**
 
