@@ -49,7 +49,7 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## Cybersecurity & Red Teaming Toolkit:
+## Security Toolkit:
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
