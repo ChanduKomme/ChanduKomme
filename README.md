@@ -48,7 +48,7 @@ chandu@kali:~$ cat /etc/profile
 
 🗣️ **English** (C1) · **German** (A2) · **Telugu** (Native)
 
-🎯 Seeking **internships** or **working student** roles in IT security & network management
+🎯 Seeking **internships** or **working student** roles in IT security , network management & Cloud security
 
 <br clear="both"/>
 
