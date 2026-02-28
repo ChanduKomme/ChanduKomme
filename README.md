@@ -8,7 +8,7 @@
 
 <br/>
 
-🚀 **Check out my projects and let's connect!**
+ **Check out my projects and let's connect!**
 
 <br/>
 
@@ -32,7 +32,7 @@
 ---
 
 
-## 👨‍💻 About Me
+##  About Me
 
 ```bash
 chandu@kali:~$ cat /etc/profile
