@@ -46,7 +46,7 @@ chandu@kali:~$ cat /etc/profile
 
 🌍 Based in **Schmalkalden, Germany**
 
-🗣️ **English** (C1) · **German** (A2) · **Telugu** (Native)
+🗣️ **English** (C1) · **German** (B1) · **Telugu** (Native)
 
 🎯 Seeking **internships** or **working student** roles in IT security , network management & Cloud security
 
