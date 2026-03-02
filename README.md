@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.chandukomme.info/">
-  <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" />  
 </a>
 
 
