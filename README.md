@@ -34,7 +34,7 @@
 
 ##  About Me
 
-```bash
+```bash   
 chandu@kali:~$ cat /etc/profile
 ```
 
