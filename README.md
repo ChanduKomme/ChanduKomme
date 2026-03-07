@@ -42,8 +42,6 @@ chandu@kali:~$ cat /etc/profile
 
 🎓 Master's student in **Applied Computer Science** at **Hochschule Schmalkalden**
 
-🔬 Specializing in **Post-Quantum Cryptography**, **IoT Security** & **Hardware-rooted Encryption**
-
 🌍 Based in **Schmalkalden, Germany**
 
 🗣️ **English** (C1) · **German** (B1) · **Telugu** (Native)
