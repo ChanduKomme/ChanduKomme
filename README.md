@@ -99,13 +99,14 @@ chandu@kali:~$ cat /etc/profile
 | | Certification | Issuer | Badge |
 |:--:|:-------------|:-------|:------|
 | ✅ | **Certified Network Security Practitioner (CNSP)** | The SecOps Group | ![CNSP](https://img.shields.io/badge/CNSP-00ff41?style=flat-square&logoColor=black) |
+| ✅ | **Blue Team Junior Analyst** | Security Blue Team | ![BTJA](https://img.shields.io/badge/Blue_Team_Junior_Analyst-1A4B8C?style=flat-square&logoColor=white) |
+| ✅ | **ISO/IEC 27001 Information Security Associate** | SkillFront | ![ISO27001](https://img.shields.io/badge/ISO%2FIEC_27001-E63946?style=flat-square&logoColor=white) |
 | Ongoing | **CompTIA Security+** | CompTIA | ![Security+](https://img.shields.io/badge/Security+-C8202F?style=flat-square&logo=comptia&logoColor=white) |
 | Ongoing | **Certified in Cybersecurity (CC)** | ISC² | ![CC](https://img.shields.io/badge/ISC²_CC-003366?style=flat-square) |
 | ✅ | **ISC² Candidate** | ISC² | ![ISC2](https://img.shields.io/badge/ISC²-003366?style=flat-square) |
 | ✅ | **CS50x Cybersecurity** | Harvard / edX | ![CS50](https://img.shields.io/badge/CS50-A51C30?style=flat-square) |
 | ✅ | **Intro to Cybersecurity** | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
 | ✅ | **Fundamentals of Cybersecurity** | IBM | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) |
-
 ---
 
 ##  Research & Publications
