@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Chandu+Komme;security-Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Chandu+Komme;Infromation-Security" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -52,45 +52,59 @@ chandu@kali:~$ cat /etc/profile
 
 ---
 
-## Security Toolkit:
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Pen_Testing-cc0000?style=for-the-badge&logo=hackaday&logoColor=white)
-![ML-KEM](https://img.shields.io/badge/ML--KEM-00ff41?style=for-the-badge&logoColor=black)
-![AES-CCM](https://img.shields.io/badge/AES--CCM-00ff41?style=for-the-badge&logoColor=black)
-![HKDF](https://img.shields.io/badge/HKDF-00ff41?style=for-the-badge&logoColor=black)
-![KAC](https://img.shields.io/badge/KAC-00ff41?style=for-the-badge&logoColor=black)
-![RFID](https://img.shields.io/badge/RFID-ff6b35?style=for-the-badge)
-![IoT Security](https://img.shields.io/badge/IoT_Security-E34F26?style=for-the-badge&logo=internetofthings&logoColor=white)
-
----
-
-## Programming Languages & Digital Suite:
-
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-## Cloud, Databases & Infrastructure:
-
+### 🖥️ Platforms & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-cc0000?style=for-the-badge&logo=fortinet&logoColor=white)
 
----
+### 🔐 Cryptography
+![ML-KEM (Kyber)](https://img.shields.io/badge/ML--KEM_(Kyber)-00ff41?style=for-the-badge&logoColor=black)
+![AES-CCM](https://img.shields.io/badge/AES--CCM-00ff41?style=for-the-badge&logoColor=black)
+![HKDF](https://img.shields.io/badge/HKDF-00ff41?style=for-the-badge&logoColor=black)
+![KAC](https://img.shields.io/badge/KAC-00ff41?style=for-the-badge&logoColor=black)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 
-## IoT & Embedded Systems:
-
+### 🔌 Hardware & IoT
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![PineCone BL602](https://img.shields.io/badge/PineCone_BL602-009688?style=for-the-badge&logo=espressif&logoColor=white)
+![RFID](https://img.shields.io/badge/RFID_(MFRC522)-ff6b35?style=for-the-badge)
+![CoAP](https://img.shields.io/badge/CoAP-005571?style=for-the-badge)
+
+### 🛡️ Security & Offensive Tooling
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-0d1117?style=for-the-badge)
+![Zeek](https://img.shields.io/badge/Zeek-005571?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-cc0000?style=for-the-badge)
+
+### 📊 SOC & Detection
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Vector](https://img.shields.io/badge/Vector.dev-1A1A1A?style=for-the-badge)
+
+### ⚖️ Compliance, Risk & Frameworks
+![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-E63946?style=for-the-badge)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF_/_800--53-0078D4?style=for-the-badge)
+![GDPR](https://img.shields.io/badge/GDPR_/_DSGVO-003399?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BB1F24?style=for-the-badge)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Modeling-7b68ee?style=for-the-badge)
+![CVSS](https://img.shields.io/badge/CVSS-444?style=for-the-badge)
+![ISO 31000](https://img.shields.io/badge/ISO_31000-2d6a4f?style=for-the-badge)
+![OpenVAS](https://img.shields.io/badge/OpenVAS_/_Greenbone-1a936f?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00A4A6?style=for-the-badge&logo=tenable&logoColor=white)
+
 
 ---
 
@@ -160,6 +174,6 @@ chandu@kali:~$ cat /etc/profile
 
 <img src="https://komarev.com/ghpvc/?username=ChanduKomme&color=00ff41&style=flat-square&label=Profile+Views" />
 
-**⚡ "Securing the post-quantum era, one algorithm at a time." ⚡**
+
 
 </div>
