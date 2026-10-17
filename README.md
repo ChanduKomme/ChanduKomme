@@ -1,159 +1,296 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f766e,100:22c55e&height=190&section=header&text=Chandu%20Komme&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=34&desc=Cybersecurity%20%7C%20Post-Quantum%20Security%20%7C%20Secure%20IoT%20%7C%20Cloud&descAlignY=57&descSize=16" alt="Chandu Komme header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:00140a,45:003d1f,100:00ff41&text=CHANDU%20KOMME&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20PQC%20%E2%80%A2%20SECURE%20IoT%20%E2%80%A2%20CLOUD%20SECURITY&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Chandu Komme cyber security profile banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=M.Sc.+Applied+Computer+Science;Building+secure+systems+from+edge+to+cloud;Detection+Engineering+%7C+PQC+%7C+IoT+Security;Open+to+Internships+%26+Working+Student+Roles" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=850&color=00FF41&center=true&vCenter=true&width=850&height=70&lines=%24+whoami+%E2%86%92+Chandu+Komme;%24+focus+%E2%86%92+Cybersecurity+%7C+PQC+%7C+Secure+IoT;%24+mission+%E2%86%92+Build.+Break.+Detect.+Secure.;%24+status+%E2%86%92+Open+to+Internships+%26+Working+Student+Roles" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
+<img src="https://img.shields.io/badge/LOCATION-GERMANY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Germany" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Internship%20%7C%20Working%20Student%20%7C%20Thesis-22c55e?style=flat-square&labelColor=0f172a" alt="Open to work" />
+<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/ChanduKomme?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
 </div>
 
 ---
 
-## 👋 About me
+## 🟢 `chandu@kali:~$ whoami`
 
-I'm **Chandu Komme**, an M.Sc. student in **Applied Computer Science** at **Hochschule Schmalkalden, Germany**, focused on building and evaluating secure systems across **post-quantum cryptography, IoT, cloud security, and detection engineering**.
+```bash
+┌──(chandu㉿security-lab)-[~]
+└─$ cat profile.conf
 
-I enjoy projects where security is measurable: packet captures, reproducible experiments, access-control decisions, audit trails, threat detections, and evidence that can be inspected rather than simply claimed.
+NAME        = Chandu Komme
+ROLE        = M.Sc. Applied Computer Science Student
+UNIVERSITY  = Hochschule Schmalkalden, Germany
+DOMAIN      = Cybersecurity / Network / Cloud / Secure IoT
+INTERESTS   = Post-Quantum Security / Detection Engineering / Cryptography
+LANGUAGES   = English C1 | German B1 | Telugu Native
+STATUS      = Seeking Internship | Working Student | Thesis Opportunity
+MINDSET     = Build → Test → Break → Detect → Harden → Repeat
+```
 
-- 🔐 Interested in **information security, network security, cloud security, secure IoT, and post-quantum security**
-- 🧪 Building practical security prototypes and research artifacts with **Python, C, Linux, Docker, FastAPI, Zeek, OpenSearch, Raspberry Pi, and BL602/RISC-V**
-- 🎯 Seeking **internship, working-student, or thesis opportunities** in cybersecurity
-- 🗣️ **English (C1)** · **German (B1)** · **Telugu (Native)**
+> **Security should be measurable, reproducible, and explainable — not just claimed.**
 
 ---
-
-## 🎯 Focus areas
-
-| 🔐 Post-Quantum Security | 🛡️ Detection Engineering | ☁️ Cloud & Application Security | 🔌 Secure IoT |
-|---|---|---|---|
-| KEM-based protocols, key lifecycle, authenticated encryption | Zeek telemetry, policy engines, anomaly detection, SOC workflows | RBAC, auditability, data minimization, secure APIs | Constrained devices, CoAP/UDP, hardware-rooted controls |
-
----
-
-## 🚀 Featured projects
-
-| Project | What it demonstrates | Core technologies |
-|---|---|---|
-| **[PQC-IoT Sentinel](https://github.com/ChanduKomme/PQC-IoT-Sentinel)** | Reproducible 24-hour experiments comparing a Kyber-derived post-quantum IoT application with a DTLS operational reference, including packet evidence and network-loss testing. | BL602 / RISC-V · CoAP · UDP · PQC · DTLS · PCAP analysis |
-| **[ShadowAI Sentinel](https://github.com/ChanduKomme/ShadowAI-Sentinel-A-Network-Based-Detection-Platform-for-Shadow-AI-Usage)** | Network-based discovery and governance of generative-AI usage with enrichment, policy evaluation, anomaly detection, alerting, and a SOC-style dashboard. | Zeek · Vector · FastAPI · OpenSearch · Streamlit · MITRE ATT&CK |
-| **[ElderCareRobot Secure Backend](https://github.com/ChanduKomme/ElderCareRobot-Secure-Simulation-Backend)** | Security-focused backend with JWT/RBAC, consent-driven data minimization, append-only audit logs, deterministic simulation, and integrity-protected evidence packs. | Python · FastAPI · SQLAlchemy · SQLite · Docker |
-| **[Hardware-Rooted KAC Cloud Sharing](https://github.com/ChanduKomme/Hardware-rooted-key-aggregate-cryptosystem-for-scalable-data-sharing-in-cloud)** | Device-bound cloud data sharing using a key-aggregate cryptosystem, authenticated encryption, RFID-gated decryption, and a blind-cloud design. | Raspberry Pi · KAC · AES-GCM · RFID · Flask · OLED |
 
 <div align="center">
-  <a href="https://github.com/ChanduKomme?tab=repositories"><b>Explore all repositories →</b></a>
+
+## ⚡ `SECURITY // FOCUS AREAS`
+
+<img src="https://img.shields.io/badge/POST--QUANTUM_SECURITY-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/DETECTION_ENGINEERING-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/CLOUD_SECURITY-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/SECURE_IoT-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/CRYPTOGRAPHY-00ff41?style=for-the-badge&labelColor=111827" />
+
 </div>
 
 ---
 
-## 🧰 Security toolbox
+## 🚀 `featured_projects --visual`
 
-### Languages & development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
 
-### Security operations & testing
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-005571?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+<a href="https://github.com/ChanduKomme/PQC-IoT-Sentinel">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=PQC-IoT-Sentinel&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="PQC IoT Sentinel" />
+</a>
+<a href="https://github.com/ChanduKomme/ShadowAI-Sentinel-A-Network-Based-Detection-Platform-for-Shadow-AI-Usage">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=ShadowAI-Sentinel-A-Network-Based-Detection-Platform-for-Shadow-AI-Usage&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="ShadowAI Sentinel" />
+</a>
 
-### Cryptography, IoT & platforms
-![ML-KEM](https://img.shields.io/badge/ML--KEM%20%2F%20Kyber-0f766e?style=flat-square)
-![AES](https://img.shields.io/badge/AES--CCM%20%2F%20AES--GCM-0f766e?style=flat-square)
-![HKDF](https://img.shields.io/badge/HKDF-0f766e?style=flat-square)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![CoAP](https://img.shields.io/badge/CoAP-005571?style=flat-square)
+<a href="https://github.com/ChanduKomme/ElderCareRobot-Secure-Simulation-Backend">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=ElderCareRobot-Secure-Simulation-Backend&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="ElderCareRobot Secure Backend" />
+</a>
+<a href="https://github.com/ChanduKomme/Hardware-rooted-key-aggregate-cryptosystem-for-scalable-data-sharing-in-cloud">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChanduKomme&repo=Hardware-rooted-key-aggregate-cryptosystem-for-scalable-data-sharing-in-cloud&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Hardware Rooted KAC" />
+</a>
 
-### Frameworks & governance
-![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-E63946?style=flat-square)
-![NIST](https://img.shields.io/badge/NIST_CSF%20%2F%20800--53-0078D4?style=flat-square)
-![GDPR](https://img.shields.io/badge/GDPR%20%2F%20DSGVO-003399?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BB1F24?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![STRIDE](https://img.shields.io/badge/STRIDE-7b68ee?style=flat-square)
+<br/>
+
+<a href="https://github.com/ChanduKomme?tab=repositories"><img src="https://img.shields.io/badge/%3E_%20EXPLORE_ALL_PROJECTS-00ff41?style=for-the-badge&logo=github&logoColor=000000" alt="Explore all projects" /></a>
+
+</div>
+
+### 🔬 Project radar
+
+| Project | Security problem | Key technologies |
+|:---|:---|:---|
+| 🔐 **PQC-IoT Sentinel** | Long-running post-quantum IoT security evaluation | `BL602` `RISC-V` `CoAP` `PQC` `DTLS` `PCAP` |
+| 👁️ **ShadowAI Sentinel** | Detecting and governing unsanctioned enterprise AI usage | `Zeek` `Vector` `FastAPI` `OpenSearch` `MITRE ATT&CK` |
+| 🤖 **ElderCareRobot Secure Backend** | Secure access, consent, evidence and auditability | `JWT` `RBAC` `FastAPI` `SQLAlchemy` `Docker` |
+| ☁️ **Hardware-Rooted KAC** | Device-bound secure cloud data sharing | `Raspberry Pi` `KAC` `AES-GCM` `RFID` `Flask` |
 
 ---
 
-## 📜 Certifications
+<div align="center">
 
-| Certification | Issuer |
-|---|---|
-| **Certified Network Security Practitioner (CNSP)** | The SecOps Group |
-| **Blue Team Junior Analyst** | Security Blue Team |
-| **ISO/IEC 27001 Information Security Associate** | SkillFront |
-| **ISC² Candidate** | ISC² |
-| **CS50 Cybersecurity** | Harvard / edX |
-| **Introduction to Cybersecurity** | Cisco |
-| **Fundamentals of Cybersecurity** | IBM |
+## 🧰 `cat /opt/security-toolbox/*`
+
+### 💻 Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,c,bash,fastapi,git,github,docker,vscode&theme=dark" alt="Development skills" />
+
+<br/><br/>
+
+### 🖥️ Platforms · Cloud · Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,raspberrypi,aws,azure&theme=dark" alt="Platform skills" />
+
+<br/><br/>
+
+### 🛡️ Security Operations & Offensive Tooling
+
+<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/NMAP-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/METASPLOIT-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/GOBUSTER-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HASHCAT-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPENVAS-1A936F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NESSUS-00A4A6?style=for-the-badge&logo=tenable&logoColor=white" />
+
+<br/><br/>
+
+### 📡 SOC · Detection · Telemetry
+
+<img src="https://img.shields.io/badge/ZEEK-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/OPENSEARCH-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+<img src="https://img.shields.io/badge/VECTOR.DEV-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PCAP_ANALYSIS-00ff41?style=for-the-badge&labelColor=111827" />
+
+<br/><br/>
+
+### 🔐 Cryptography · PQC · Secure IoT
+
+<img src="https://img.shields.io/badge/ML--KEM_%2F_KYBER-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/AES--CCM-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/AES--GCM-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/HKDF-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/KAC-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/OPENSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
+<img src="https://img.shields.io/badge/COAP-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RFID-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BL602_RISC--V-009688?style=for-the-badge" />
+
+<br/><br/>
+
+### ⚖️ Governance · Risk · Frameworks
+
+<img src="https://img.shields.io/badge/ISO%2FIEC_27001-E63946?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NIST_CSF-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NIST_800--53-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GDPR_%2F_DSGVO-003399?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-BB1F24?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OWASP_TOP_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/STRIDE-7B68EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CVSS-444444?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🔬 Research & publication
+## 🏅 `certifications --status`
 
-### Key-Aggregate Cryptosystem for Scalable Data Sharing in Cloud Storage
+<div align="center">
+
+<img src="https://img.shields.io/badge/CNSP-CERTIFIED-00ff41?style=for-the-badge&labelColor=111827" alt="CNSP" />
+<img src="https://img.shields.io/badge/BLUE_TEAM_JUNIOR_ANALYST-CERTIFIED-1A4B8C?style=for-the-badge" alt="Blue Team Junior Analyst" />
+<img src="https://img.shields.io/badge/ISO%2FIEC_27001-ASSOCIATE-E63946?style=for-the-badge" alt="ISO 27001" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ISC%C2%B2-CANDIDATE-003366?style=for-the-badge" alt="ISC2 Candidate" />
+<img src="https://img.shields.io/badge/CS50-CYBERSECURITY-A51C30?style=for-the-badge" alt="CS50 Cybersecurity" />
+<img src="https://img.shields.io/badge/CISCO-INTRO_TO_CYBERSECURITY-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Intro to Cybersecurity" />
+<img src="https://img.shields.io/badge/IBM-CYBERSECURITY_FUNDAMENTALS-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Fundamentals" />
+
+<br/><br/>
+
+`✓ Network Security` · `✓ Blue Team` · `✓ Information Security` · `✓ Cybersecurity Foundations`
+
+</div>
+
+---
+
+## 🔬 `research --publication`
+
+<table>
+<tr>
+<td width="70%">
+
+### 🔑 Key-Aggregate Cryptosystem for Scalable Data Sharing in Cloud Storage
+
 **IJARESM · March 2023**
 
-Research on secure cloud data sharing using a **Key-Aggregate Cryptosystem (KAC)** to delegate decryption rights through constant-size aggregate keys, reducing key-management overhead while supporting scalable access control.
+A secure cloud data-sharing approach using **Key-Aggregate Cryptosystem (KAC)** to delegate decryption authority through **constant-size aggregate keys**, addressing access control, key-management overhead, and scalability.
 
-`Cryptography` · `Cloud Security` · `Access Control` · `Scalable Key Management`
+`KAC` `Cloud Security` `Cryptography` `Access Control` `Scalable Key Management`
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://img.shields.io/badge/RESEARCH-CLOUD_SECURITY-0078D4?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/DOMAIN-CRYPTOGRAPHY-7B68EE?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/METHOD-KAC-00ff41?style=for-the-badge&labelColor=111827" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+## 🎓 `education --timeline`
 
-| Degree | Institution |
-|---|---|
-| **M.Sc. Applied Computer Science** | Hochschule Schmalkalden, Germany |
-| **B.Tech Computer Science** | Siddharth Institute of Engineering & Technology, India |
+```text
+2025 ────────────────► M.Sc. Applied Computer Science
+                       Hochschule Schmalkalden · Germany
+
+     ────────────────► B.Tech Computer Science
+                       Siddharth Institute of Engineering & Technology · India
+```
 
 ---
-
-## 📊 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChanduKomme&show_icons=true&hide_border=true&theme=transparent&title_color=22c55e&icon_color=22c55e&text_color=94a3b8" alt="Chandu's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduKomme&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="Chandu's GitHub streak" />
+## 📊 `github --telemetry`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChanduKomme&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduKomme&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChanduKomme&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003d1f&hide_border=true&custom_title=Security%20Lab%20Activity" alt="GitHub activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChanduKomme&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## 🤝 Let's connect
+## 📡 `current_status --listen`
 
-I'm happy to connect around **cybersecurity, post-quantum security, secure IoT, detection engineering, cloud security, research collaboration, internships, and working-student opportunities**.
+```yaml
+learning:
+  - post-quantum cryptography
+  - secure protocol engineering
+  - network detection & telemetry
+  - cloud security architecture
+
+building:
+  - reproducible security experiments
+  - IoT security prototypes
+  - detection & governance tooling
+
+looking_for:
+  - cybersecurity internship
+  - working student position
+  - master's thesis collaboration
+```
+
+---
 
 <div align="center">
 
-<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/Portfolio-chandukomme.info-22c55e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/LinkedIn-Chandu_Komme-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/Email-kommechandu12%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+## 🤝 `connect --secure-channel`
+
+**Interested in cybersecurity, PQC, secure IoT, cloud security, detection engineering, or research collaboration?**
+
+<br/>
+
+<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/%3E_%20PORTFOLIO-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000000" /></a>
+<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/%3E_%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/%3E_%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ChanduKomme&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ChanduKomme&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge" alt="Profile views" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0f766e,100:020617&height=110&section=footer" alt="Footer" />
+<br/><br/>
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│  ACCESS GRANTED                                            │
+│  Thanks for visiting. Explore the projects. Stay secure.   │
+└────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003d1f,100:00140a&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
