@@ -1,23 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:00140a,45:003d1f,100:00ff41&text=CHANDU%20KOMME&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20PQC%20%E2%80%A2%20SECURE%20IoT%20%E2%80%A2%20CLOUD%20SECURITY&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Chandu Komme cyber security profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,35:052e16,70:14532d,100:00ff41&text=CHANDU%20KOMME&fontColor=f8fafc&fontSize=50&fontAlignY=35&desc=CYBERSECURITY%20%E2%80%A2%20AI%20SECURITY%20%E2%80%A2%20PQC%20%E2%80%A2%20SECURE%20IoT%20%E2%80%A2%20CLOUD&descAlignY=55&descSize=16&animation=fadeIn" alt="Chandu Komme cybersecurity profile" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=850&color=00FF41&center=true&vCenter=true&width=850&height=70&lines=%24+whoami+%E2%86%92+Chandu+Komme;%24+focus+%E2%86%92+Cybersecurity+%7C+PQC+%7C+Secure+IoT;%24+mission+%E2%86%92+Build.+Break.+Detect.+Secure.;%24+status+%E2%86%92+Open+to+Internships+%26+Working+Student+Roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=850&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=%5B+SYSTEM+ONLINE+%5D+Welcome+to+my+security+lab;%24+whoami+%E2%86%92+Chandu+Komme+%7C+Cybersecurity;%24+focus+%E2%86%92+AI+Security+%7C+PQC+%7C+Secure+IoT;%24+mission+%E2%86%92+Build.+Break.+Detect.+Secure." alt="Cybersecurity typing animation" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
-<img src="https://img.shields.io/badge/LOCATION-GERMANY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Germany" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/%E2%97%8F_SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117" alt="System online" />
+<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
+<img src="https://img.shields.io/badge/BASE-GERMANY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Germany" />
 
 <br/><br/>
 
-<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/ChanduKomme?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/%3E_%20PORTFOLIO-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" /></a>
+<a href="https://github.com/ChanduKomme?tab=repositories"><img src="https://img.shields.io/badge/%3E_%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/%3E_%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/%3E_%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<code>SECURITY RESEARCH</code> · <code>AI SECURITY</code> · <code>POST-QUANTUM</code> · <code>DETECTION</code> · <code>SECURE IoT</code>
+
+<br/><br/>
+
+> <b>Building security that can be measured, tested, reproduced, and trusted.</b>
 
 </div>
 
@@ -270,15 +279,20 @@ looking_for:
 
 <div align="center">
 
-## 🤝 `connect --secure-channel`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00ff41" alt="Green divider" />
 
-**Interested in cybersecurity, AI security, PQC, secure IoT, cloud security, detection engineering, or research collaboration?**
+## 🔐 `establish_secure_channel()`
+
+### **Let's build something secure.**
+
+Interested in **Cybersecurity · AI Security · Post-Quantum Security · Secure IoT · Cloud Security · Detection Engineering · Research Collaboration**
 
 <br/>
 
-<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/%3E_%20PORTFOLIO-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000000" /></a>
-<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/%3E_%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/%3E_%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.chandukomme.info/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" /></a>
+<a href="https://github.com/ChanduKomme?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://www.linkedin.com/in/chandu-komme-242901388/"><img src="https://img.shields.io/badge/CONNECT_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kommechandu12@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
@@ -287,12 +301,18 @@ looking_for:
 <br/><br/>
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│  ACCESS GRANTED                                            │
-│  Thanks for visiting. Explore the projects. Stay secure.   │
-└────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║  SESSION STATUS : SECURE                                    ║
+║  USER           : CHANDU KOMME                              ║
+║  CHANNEL        : OPEN FOR COLLABORATION                    ║
+║  NEXT ACTION    : EXPLORE PROJECTS → CONNECT → BUILD        ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003d1f,100:00140a&height=120&section=footer" width="100%" alt="Footer" />
+<a href="https://github.com/ChanduKomme">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=%5B+SESSION+COMPLETE+%5D+Thanks+for+visiting.;Stay+curious.+Build+secure.+Think+adversarially.;%24+exit+0" alt="Closing terminal animation" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:00ff41,45:14532d,75:052e16,100:020617&text=STAY%20SECURE&fontColor=f8fafc&fontSize=20&fontAlignY=72" alt="Stay secure footer" />
 
 </div>
