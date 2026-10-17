@@ -33,7 +33,7 @@ NAME        = Chandu Komme
 ROLE        = M.Sc. Applied Computer Science Student
 UNIVERSITY  = Hochschule Schmalkalden, Germany
 DOMAIN      = Cybersecurity / Network / Cloud / Secure IoT
-INTERESTS   = Post-Quantum Security / Detection Engineering / Cryptography
+INTERESTS   = Post-Quantum Security / AI Security / Detection Engineering / Cryptography
 LANGUAGES   = English C1 | German B1 | Telugu Native
 STATUS      = Seeking Internship | Working Student | Thesis Opportunity
 MINDSET     = Build → Test → Break → Detect → Harden → Repeat
@@ -48,6 +48,7 @@ MINDSET     = Build → Test → Break → Detect → Harden → Repeat
 ## ⚡ `SECURITY // FOCUS AREAS`
 
 <img src="https://img.shields.io/badge/POST--QUANTUM_SECURITY-00ff41?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/AI_SECURITY-00ff41?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/DETECTION_ENGINEERING-00ff41?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/NETWORK_SECURITY-00ff41?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/CLOUD_SECURITY-00ff41?style=for-the-badge&labelColor=111827" />
@@ -249,6 +250,7 @@ A secure cloud data-sharing approach using **Key-Aggregate Cryptosystem (KAC)** 
 ```yaml
 learning:
   - post-quantum cryptography
+  - AI security
   - secure protocol engineering
   - network detection & telemetry
   - cloud security architecture
@@ -270,7 +272,7 @@ looking_for:
 
 ## 🤝 `connect --secure-channel`
 
-**Interested in cybersecurity, PQC, secure IoT, cloud security, detection engineering, or research collaboration?**
+**Interested in cybersecurity, AI security, PQC, secure IoT, cloud security, detection engineering, or research collaboration?**
 
 <br/>
 
