@@ -2,14 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,35:052e16,70:14532d,100:00ff41&text=CHANDU%20KOMME&fontColor=f8fafc&fontSize=50&fontAlignY=35&desc=CYBERSECURITY%20%E2%80%A2%20AI%20SECURITY%20%E2%80%A2%20PQC%20%E2%80%A2%20SECURE%20IoT%20%E2%80%A2%20CLOUD&descAlignY=55&descSize=16&animation=fadeIn" alt="Chandu Komme cybersecurity profile" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=850&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=%5B+SYSTEM+ONLINE+%5D+Welcome+to+my+security+lab;%24+whoami+%E2%86%92+Chandu+Komme+%7C+Cybersecurity;%24+focus+%E2%86%92+AI+Security+%7C+PQC+%7C+Secure+IoT;%24+mission+%E2%86%92+Build.+Break.+Detect.+Secure." alt="Cybersecurity typing animation" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=850&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=%5B+SYSTEM+ONLINE+%5D+Welcome+to+my+security+lab;%24+whoami+%E2%86%92+Chandu+Komme+%7C+Cybersecurity;%24+focus+%E2%86%92+AI+Security+%7C+PQC+%7C+Secure+IoT;%24+mission+%E2%86%92+Build.+Break.+Detect.+Secure." alt="Animated introduction showing cybersecurity and AI security interests" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/%E2%97%8F_SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117" alt="System online" />
 <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/INTEREST-AI_SECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="AI Security focus" />
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
 <img src="https://img.shields.io/badge/BASE-GERMANY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Germany" />
 
@@ -26,7 +25,7 @@
 
 <br/><br/>
 
-> <b>Building security that can be measured, tested, reproduced, and trusted.</b>
+<p align="center"><strong>🔐 Building security that can be measured, tested, reproduced, and trusted.</strong></p>
 
 </div>
 
