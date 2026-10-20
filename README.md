@@ -280,11 +280,11 @@ looking_for:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00ff41" alt="Green divider" />
 
-## 🔐 `establish_secure_channel()`
+<h2>🔐 establish_secure_channel()</h2>
 
-### **Let's build something secure.**
+<h3>Let's build something secure.</h3>
 
-Interested in **Cybersecurity · AI Security · Post-Quantum Security · Secure IoT · Cloud Security · Detection Engineering · Research Collaboration**
+<p>Interested in <strong>Cybersecurity · AI Security · Post-Quantum Security · Secure IoT · Cloud Security · Detection Engineering · Research Collaboration</strong></p>
 
 <br/>
 
@@ -299,14 +299,12 @@ Interested in **Cybersecurity · AI Security · Post-Quantum Security · Secure 
 
 <br/><br/>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  SESSION STATUS : SECURE                                    ║
-║  USER           : CHANDU KOMME                              ║
-║  CHANNEL        : OPEN FOR COLLABORATION                    ║
-║  NEXT ACTION    : EXPLORE PROJECTS → CONNECT → BUILD        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<pre>
+SESSION STATUS : SECURE
+USER           : CHANDU KOMME
+CHANNEL        : OPEN FOR COLLABORATION
+NEXT ACTION    : EXPLORE PROJECTS → CONNECT → BUILD
+</pre>
 
 <a href="https://github.com/ChanduKomme">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=%5B+SESSION+COMPLETE+%5D+Thanks+for+visiting.;Stay+curious.+Build+secure.+Think+adversarially.;%24+exit+0" alt="Closing terminal animation" />
