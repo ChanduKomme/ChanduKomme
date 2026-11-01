@@ -155,16 +155,7 @@ MINDSET     = Build → Test → Break → Detect → Harden → Repeat
 
 <br/><br/>
 
-### ⚖️ Governance · Risk · Frameworks
 
-<img src="https://img.shields.io/badge/ISO%2FIEC_27001-E63946?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NIST_CSF-0078D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NIST_800--53-0078D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GDPR_%2F_DSGVO-003399?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-BB1F24?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OWASP_TOP_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/STRIDE-7B68EE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CVSS-444444?style=for-the-badge" />
 
 </div>
 
