@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/%E2%97%8F_SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117" alt="System online" />
 <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/INTEREST-AI_SECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="AI Security focus" />
+<img src="https://img.shields.io/badge/INTEREST-AI_SECURITY-00ff41?style=for-the-badge&labelColor=0d1117" alt="cyber Security focus" />
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
 <img src="https://img.shields.io/badge/BASE-GERMANY-00ff41?style=for-the-badge&labelColor=0d1117" alt="Germany" />
 
