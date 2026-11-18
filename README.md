@@ -37,7 +37,7 @@ ROLE        = M.Sc. Applied Computer Science Student · Hochschule Schmalkalden,
 WORK        = IT & Network Support Engineer (Freelance) · Chase IT Global
 FOCUS       = AI Security / Post-Quantum Cryptography / Detection Engineering / Secure IoT
 CERTIFIED   = CNSP · Blue Team Junior Analyst · ISO/IEC 27001 Associate
-LANGUAGES   = English C1 | German B1 | Telugu Native
+LANGUAGES   = English C1 | German A2 | Telugu Native
 STATUS      = Seeking Internship | Werkstudent | Master's Thesis
 MINDSET     = Build → Test → Break → Detect → Harden → Repeat
 ```
